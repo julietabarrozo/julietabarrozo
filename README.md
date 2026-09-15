@@ -1,6 +1,6 @@
 # Hi there, I'm Julieta 👋
 
-I work in **People Operations at a Big 4 firm** and combine my background in HR with **programming and process automation** to build efficient solutions and optimize workflows.
+I work in **People Operations at a Big 4 firm**, combining my HR background with **programming and process automation** to build efficient solutions and optimize corporate workflows.
 
 ---
 
