@@ -7,8 +7,7 @@ I work in **People Operations** and combine my background in HR with **programmi
 ### 🛠️ Tech Stack & Skills
 * **Languages:** Python, Java
 * **Automation & AI:** Microsoft Power Automate, Copilot Studio
-* **Core Focus:** Process Optimization, HR Tech, Data & Workflow Automation
-
+  
 ---
 
 ### 📌 What I Do
