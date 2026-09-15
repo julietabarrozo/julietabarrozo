@@ -5,9 +5,9 @@ I work in **People Operations at a Big 4 firm** combining my HR background with 
 ---
 
 ### 🛠️ Tech Stack & Skills
-* **Languages:** Python, Java
+* **Data & Analytics:** Power BI, Tableau, Salesforce
 * **Automation & AI:** Microsoft Power Automate, Copilot Studio, Alteryx
-  
+* **Programming Languages:** Python, Java
 ---
 
 ### 📌 What I Do
